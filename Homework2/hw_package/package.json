@@ -1,0 +1,23 @@
+{
+    "name": "dmitrii_date_package",
+    "version": "1.0.0",
+    "description": "Generation of random date",
+    "main": "index.js",
+    "scripts": {
+        "test": "\"start\": \"node ./index.js\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Datitov1986/Node.js.git#main"
+    },
+    "keywords": [
+        "random",
+        "date"
+    ],
+    "author": "Dmitrii Titov",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Datitov1986/Node.js.git/issues"
+    },
+    "homepage": "https://github.com/Datitov1986/Node.js.git/tree/main#readme"
+}
